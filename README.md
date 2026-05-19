@@ -704,8 +704,6 @@ Uma política eficiente pode ser:
 ```
 ## 15. Regra final
 
-A IA deve acelerar o desenvolvimento, não sequestrar o processo técnico.
-
 O melhor uso não é deixar o agente “codar tudo”. O melhor uso é manter o desenvolvedor no controle do escopo, da arquitetura, dos riscos e da validação, usando a IA para reduzir esforço operacional e ampliar capacidade de análise.
 
 > **Controle o contexto. Controle o diff. Controle o custo.**
