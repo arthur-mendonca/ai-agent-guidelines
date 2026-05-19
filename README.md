@@ -682,12 +682,11 @@ export class UserService {
 ```
 
 > **Dica:** Fornecer 1 exemplo de código bem escrito ajuda a IA a imitar o padrão. É muito mais barato em tokens a IA copiar um padrão de código existente do que tentar interpretar longas regras textuais sobre a arquitetura (Few-Shot Prompting).
-```
 
 Esse arquivo pode ser colado ou referenciado no início de sessões novas, evitando que o agente redescubra padrões básicos do projeto.
 
 ---
-
+```
 ## 14. Política pessoal de uso recomendada
 
 Uma política eficiente pode ser:
@@ -702,7 +701,7 @@ Uma política eficiente pode ser:
 8. **Sempre dividir tarefa grande em etapas menores.**
 
 ---
-
+```
 ## 15. Regra final
 
 A IA deve acelerar o desenvolvimento, não sequestrar o processo técnico.
