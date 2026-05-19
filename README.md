@@ -162,6 +162,12 @@ Aponte apenas problemas que possam causar:
 Ignore estilo, preferências pessoais e melhorias opcionais.
 ```
 
+- Parar criar um arquivo .txt com o diff: 
+
+```
+git diff > diff.txt
+```
+
 ---
 
 ## 4. Boas práticas para economizar tokens
